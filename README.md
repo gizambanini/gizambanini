@@ -31,11 +31,11 @@
 </div>
 </br>
 
-![Snake animation](https://github.com/gi-m-zambanini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
 
 <!--
 
+![Snake animation](https://github.com/gi-m-zambanini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
 
 
 **gi-m-zambanini/gi-m-zambanini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
