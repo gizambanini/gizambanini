@@ -28,12 +28,16 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gi-m-zambanini&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <br/> <br/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gi-m-zambanini&layout=compact&langs_count=7&theme=radical"/>
-</div>
+
 </br>
 
-![Snake animation] <img align="center" alt="gi-Snake" src="https://github.com/gi/rafaballerini/blob/output/github-contribution-grid-snake.svg">
-<!--
+![Snake animation](https://github.com/gi-m-zambanini/gi-m-zambanini/blob/output/github-contribution-grid-snake.svg)
 
+ </div>
+ 
+ 
+ <!--
+</div>
 ![Snake animation](https://github.com/gi-m-zambanini/gi-m-zambanini/blob/output/github-contribution-grid-snake.svg)
  
 
