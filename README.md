@@ -7,7 +7,7 @@
 
 
 <div align="center">
-<h4>
+<h3>
 🔭 I’m currently studying at Cotuca. <br/> <br/>
 🌱 Learning 
   <img align="center" alt="gi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -20,7 +20,7 @@
 
     
  <br/>
- </h4>
+ </h3>
  </div>
 
 <div align="center">
