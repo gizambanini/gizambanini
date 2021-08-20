@@ -1,5 +1,5 @@
  
-<h1> Hii, I'm Gi Zambanini 👋</h1>
+<h1  align="center"> Hii, I'm Gi Zambanini 👋</h1>
 
 <p align="center">
 <img src = "https://lh3.googleusercontent.com/proxy/00FwQcVVqOcOnSd9DIwkE7PQ1hhchJZ-rfshA3ZoCmNVoEYC-nSdzaX_LWTL8cxT9V_RY7gf7bfd0JUCo8rugcZJpRIr-mSyPJLJoJmS9BMZrJFXINOxehFIQfvJG_URTNOZyqCMPX7FfFOrhi70B5LI-4zlsNcwwOa6N0ld"/>
