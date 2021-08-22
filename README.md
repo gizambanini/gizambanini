@@ -35,7 +35,9 @@
 </br>
 
 ![Snake animation](https://github.com/gi-m-zambanini/gi-m-zambanini/blob/output/github-contribution-grid-snake.svg)
-
+ <br/>
+ <br/>
+<img src="https://komarev.com/ghpvc/?username=gi-m-zambanini&color=green" alt="gi-m-zambanini" /> 
  </div>
  
  
