@@ -38,8 +38,15 @@
  <br/>
  <br/>
 <img src="https://komarev.com/ghpvc/?username=gi-m-zambanini&color=green" alt="gi-m-zambanini" /> 
-  [![Github Badge](https://img.shields.io/badge/-@GiZambanini-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/gi-m-zambanini)](https://github.com/gi-m-zambanini)
+ <br/>
+ <h3> 𝓉𝑒𝒶𝓂 </h3>
  </div>
+ <div align="center">
+
+ [![Github Badge](https://img.shields.io/badge/-@GiZambanini-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/gi-m-zambanini)](https://github.com/gi-m-zambanini)
+ [![Github Badge](https://img.shields.io/badge/-@Isabela-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/Isabela-CP)](https://github.com/Isabela-CP)
+ [![Github Badge](https://img.shields.io/badge/-@Milena-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/milenafs)](https://github.com/milenafs)
+  </div>
  
 
  <!--
