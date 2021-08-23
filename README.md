@@ -18,10 +18,8 @@
    <img align="center" alt="gi-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
    <img align="center" alt="gi-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
    <img align="center" alt="gi-Jquey" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
-  <img align="center" alt="gi-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
- <img align="center" alt="gi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-
-    
+   <img align="center" alt="gi-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+   <img align="center" alt="gi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">   
  <br/>
  </h3>
  </div>
@@ -36,17 +34,20 @@
 
 ![Snake animation](https://github.com/gi-m-zambanini/gi-m-zambanini/blob/output/github-contribution-grid-snake.svg)
  <br/>
- <br/>
-<img src="https://komarev.com/ghpvc/?username=gi-m-zambanini&color=green" alt="gi-m-zambanini" /> 
- <br/>
- <h3> 𝓉𝑒𝒶𝓂 </h3>
+
+ <h3> ✨𝒯𝑒𝒶𝓂✨</h3>
  </div>
  <div align="center">
 
  [![Github Badge](https://img.shields.io/badge/-@GiZambanini-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/gi-m-zambanini)](https://github.com/gi-m-zambanini)
  [![Github Badge](https://img.shields.io/badge/-@Isabela-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/Isabela-CP)](https://github.com/Isabela-CP)
  [![Github Badge](https://img.shields.io/badge/-@Milena-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/milenafs)](https://github.com/milenafs)
-  </div>
+   <br/> 
+<br/><br/>
+<img src="https://komarev.com/ghpvc/?username=gi-m-zambanini&color=green" alt="gi-m-zambanini" /> 
+<br/>
+</div>
+
  
 
  <!--
