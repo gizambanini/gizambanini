@@ -1,5 +1,5 @@
  
-<h1  align="center"> Hii, I'm Gi Zambanini 👋</h1>
+<h1  align="center"> 𝐻𝒾𝒾, 𝐼'𝓂 𝒢𝒾 𝒵𝒶𝓂𝒷𝒶𝓃𝒾𝓃𝒾 👋</h1>
 
 <p align="center">
 <img src = "https://c.tenor.com/sBP8b87PkqEAAAAC/phineas-and-ferb-computer.gif"/>
@@ -8,8 +8,8 @@
 
 <div align="center">
 <h3>
-📚 I’m currently studying at Cotuca <br/> <br/>
-🌱 Learning 
+📚 𝐼’𝓂 𝒸𝓊𝓇𝓇𝑒𝓃𝓉𝓁𝓎 𝓈𝓉𝓊𝒹𝓎𝒾𝓃𝑔 𝒶𝓉 𝒞𝑜𝓉𝓊𝒸𝒶 <br/> <br/>
+🌱 𝐿𝑒𝒶𝓇𝓃𝒾𝓃𝑔
    <img align="center" alt="gi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="gi-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
    <img align="center" alt="gi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
