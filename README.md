@@ -38,9 +38,10 @@
  <br/>
  <br/>
 <img src="https://komarev.com/ghpvc/?username=gi-m-zambanini&color=green" alt="gi-m-zambanini" /> 
+  [![Github Badge](https://img.shields.io/badge/-@GiZambanini-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/gi-m-zambanini)](https://github.com/gi-m-zambanini)
  </div>
  
- 
+
  <!--
 </div>
 ![Snake animation](https://github.com/gi-m-zambanini/gi-m-zambanini/blob/output/github-contribution-grid-snake.svg)
