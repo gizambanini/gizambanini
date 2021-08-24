@@ -25,27 +25,26 @@
  </div>
 
 <div align="center">
-  <a href="https://github.com/gi-m-zambanini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gi-m-zambanini&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gi-m-zambanini&layout=compact&langs_count=7&theme=tokyonight"/>
+  <a href="https://github.com/gizambanini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gizambanini&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gizambanini&layout=compact&langs_count=7&theme=tokyonight"/>
 
-  <br/> <br/>
- 
+  <br/>
 </br>
 
-![Snake animation](https://github.com/gi-m-zambanini/gi-m-zambanini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/gizambanini/gizambanini/blob/output/github-contribution-grid-snake.svg)
  <br/>
 
  <h3> ✨𝒯𝑒𝒶𝓂✨</h3>
  </div>
  <div align="center">
 
- [![Github Badge](https://img.shields.io/badge/-@GiZambanini-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/gi-m-zambanini)](https://github.com/gi-m-zambanini)
+ [![Github Badge](https://img.shields.io/badge/-@GiZambanini-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/gi-m-zambanini)](https://github.com/gizambanini)
  [![Github Badge](https://img.shields.io/badge/-@Isabela-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/Isabela-CP)](https://github.com/Isabela-CP)
  [![Github Badge](https://img.shields.io/badge/-@Milena-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/milenafs)](https://github.com/milenafs)
    <br/> 
 <br/><br/>
-<img src="https://komarev.com/ghpvc/?username=gi-m-zambanini&color=green" alt="gi-m-zambanini" /> 
+<img src="https://komarev.com/ghpvc/?username=gizambanini&color=blueviolet" alt="gizambanini" /> 
 <br/>
 </div>
 
@@ -53,11 +52,11 @@
 
  <!--
 </div>
-![Snake animation](https://github.com/gi-m-zambanini/gi-m-zambanini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/giambanini/gizambanini/blob/output/github-contribution-grid-snake.svg)
  
 
 
-**gi-m-zambanini/gi-m-zambanini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**gizambanini/gizambanini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
