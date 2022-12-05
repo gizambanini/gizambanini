@@ -36,17 +36,7 @@
  <br/>
  
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/giovana-mendon%C3%A7a-zambanini-5bb43224b/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gi.m.zambanini@gmail.com)
-
- <h3> ✨𝒯𝑒𝒶𝓂✨</h3>
- </div>
- <div align="center">
-
- [![Github Badge](https://img.shields.io/badge/-@GiZambanini-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/gi-m-zambanini)](https://github.com/gizambanini)
- [![Github Badge](https://img.shields.io/badge/-@Isabela-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/Isabela-CP)](https://github.com/Isabela-CP)
- [![Github Badge](https://img.shields.io/badge/-@Milena-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/milenafs)](https://github.com/milenafs)
-   <br/> 
-<br/><br/>
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gi.m.zambanini@gmail.com) <br/>
 <img src="https://komarev.com/ghpvc/?username=gizambanini&color=blueviolet" alt="gizambanini" /> 
 <br/>
 </div>
@@ -54,6 +44,17 @@
  
 
  <!--
+
+
+<h3> ✨𝒯𝑒𝒶𝓂✨</h3>
+ </div>
+ <div align="center">
+
+ [![Github Badge](https://img.shields.io/badge/-@GiZambanini-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/gi-m-zambanini)](https://github.com/gizambanini)
+ [![Github Badge](https://img.shields.io/badge/-@Isabela-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/Isabela-CP)](https://github.com/Isabela-CP)
+ [![Github Badge](https://img.shields.io/badge/-@Milena-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/milenafs)](https://github.com/milenafs)
+   <br/> 
+
 </div>
 ![Snake animation](https://github.com/giambanini/gizambanini/blob/output/github-contribution-grid-snake.svg)
  
