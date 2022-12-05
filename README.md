@@ -34,6 +34,9 @@
 
 ![Snake animation](https://github.com/gizambanini/gizambanini/blob/output/github-contribution-grid-snake.svg)
  <br/>
+ 
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/giovana-mendon%C3%A7a-zambanini-5bb43224b/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gi.m.zambanini@gmail.com)
 
  <h3> ✨𝒯𝑒𝒶𝓂✨</h3>
  </div>
